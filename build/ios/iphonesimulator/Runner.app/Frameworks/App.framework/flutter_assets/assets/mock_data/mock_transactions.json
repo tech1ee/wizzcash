@@ -1,0 +1,122 @@
+[
+  {
+    "id": "tr001",
+    "date": "2023-03-01",
+    "description": "Salary",
+    "amount": 5000.00,
+    "type": "credit",
+    "category": "Income"
+  },
+  {
+    "id": "tr002",
+    "date": "2023-03-03",
+    "description": "Grocery Store",
+    "amount": 120.50,
+    "type": "debit",
+    "category": "Food"
+  },
+  {
+    "id": "tr003",
+    "date": "2023-03-05",
+    "description": "Netflix Subscription",
+    "amount": 15.99,
+    "type": "debit",
+    "category": "Entertainment"
+  },
+  {
+    "id": "tr004",
+    "date": "2023-03-10",
+    "description": "Gas Station",
+    "amount": 45.75,
+    "type": "debit",
+    "category": "Transportation"
+  },
+  {
+    "id": "tr005",
+    "date": "2023-03-15",
+    "description": "Restaurant",
+    "amount": 67.80,
+    "type": "debit",
+    "category": "Dining"
+  },
+  {
+    "id": "tr006",
+    "date": "2023-03-20",
+    "description": "Electric Bill",
+    "amount": 85.42,
+    "type": "debit",
+    "category": "Utilities"
+  },
+  {
+    "id": "tr007",
+    "date": "2023-03-25",
+    "description": "Gym Membership",
+    "amount": 50.00,
+    "type": "debit",
+    "category": "Health"
+  },
+  {
+    "id": "tr008",
+    "date": "2023-03-30",
+    "description": "Online Shopping",
+    "amount": 120.30,
+    "type": "debit",
+    "category": "Shopping"
+  },
+  {
+    "id": "tr009",
+    "date": "2023-04-01",
+    "description": "Salary",
+    "amount": 5000.00,
+    "type": "credit",
+    "category": "Income"
+  },
+  {
+    "id": "tr010",
+    "date": "2023-04-05",
+    "description": "Rent Payment",
+    "amount": 1200.00,
+    "type": "debit",
+    "category": "Housing"
+  },
+  {
+    "id": "tr011",
+    "date": "2023-04-10",
+    "description": "Coffee Shop",
+    "amount": 25.00,
+    "type": "debit",
+    "category": "Dining"
+  },
+  {
+    "id": "tr012",
+    "date": "2023-04-15",
+    "description": "Mobile Phone Bill",
+    "amount": 65.00,
+    "type": "debit",
+    "category": "Utilities"
+  },
+  {
+    "id": "tr013",
+    "date": "2023-04-18",
+    "description": "Bonus",
+    "amount": 1000.00,
+    "type": "credit",
+    "category": "Income"
+  },
+  {
+    "id": "tr014",
+    "date": "2023-04-20",
+    "description": "Car Insurance",
+    "amount": 150.00,
+    "type": "debit",
+    "category": "Insurance"
+  },
+  {
+    "id": "tr015",
+    "date": "2023-04-25",
+    "description": "Doctor Appointment",
+    "amount": 75.00,
+    "type": "debit",
+    "category": "Health"
+  }
+] 

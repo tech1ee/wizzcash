@@ -1,0 +1,47 @@
+[
+  {
+    "id": "goal001",
+    "title": "Emergency Fund",
+    "target_amount": 10000.00,
+    "current_amount": 3500.00,
+    "target_date": "2023-12-31",
+    "priority": "high",
+    "category": "Savings"
+  },
+  {
+    "id": "goal002",
+    "title": "Vacation to Japan",
+    "target_amount": 5000.00,
+    "current_amount": 1200.00,
+    "target_date": "2024-06-30",
+    "priority": "medium",
+    "category": "Travel"
+  },
+  {
+    "id": "goal003",
+    "title": "Down Payment for House",
+    "target_amount": 50000.00,
+    "current_amount": 12000.00,
+    "target_date": "2025-05-15",
+    "priority": "high",
+    "category": "Housing"
+  },
+  {
+    "id": "goal004",
+    "title": "New Laptop",
+    "target_amount": 2000.00,
+    "current_amount": 800.00,
+    "target_date": "2023-09-01",
+    "priority": "low",
+    "category": "Electronics"
+  },
+  {
+    "id": "goal005",
+    "title": "Pay Off Student Loan",
+    "target_amount": 15000.00,
+    "current_amount": 5000.00,
+    "target_date": "2024-12-31",
+    "priority": "high",
+    "category": "Debt Repayment"
+  }
+] 

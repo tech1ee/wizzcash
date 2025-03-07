@@ -1,0 +1,66 @@
+[
+  {
+    "id": "rec001",
+    "title": "Reduce Dining Expenses",
+    "description": "Your spending on dining is 15% higher than the average. Consider cooking more meals at home to save money.",
+    "category": "Expense Reduction",
+    "potential_savings": 120.00,
+    "priority": "medium"
+  },
+  {
+    "id": "rec002",
+    "title": "Automate Savings",
+    "description": "Set up automatic transfers to your savings account on payday to build your emergency fund.",
+    "category": "Saving Strategy",
+    "potential_savings": 500.00,
+    "priority": "high"
+  },
+  {
+    "id": "rec003",
+    "title": "Review Subscriptions",
+    "description": "You have multiple entertainment subscriptions totaling $45/month. Consider keeping only the ones you regularly use.",
+    "category": "Expense Reduction",
+    "potential_savings": 30.00,
+    "priority": "low"
+  },
+  {
+    "id": "rec004",
+    "title": "Refinance Loans",
+    "description": "Current interest rates are lower than when you took out your loan. Refinancing could save you money.",
+    "category": "Debt Management",
+    "potential_savings": 200.00,
+    "priority": "high"
+  },
+  {
+    "id": "rec005",
+    "title": "Increase Retirement Contributions",
+    "description": "You're currently contributing 5% to your retirement account. Increasing to 10% would significantly improve your long-term financial health.",
+    "category": "Retirement Planning",
+    "potential_savings": 0.00,
+    "priority": "medium"
+  },
+  {
+    "id": "rec006",
+    "title": "Shop Insurance Providers",
+    "description": "Your insurance premiums are higher than average. Shopping around could yield better rates.",
+    "category": "Expense Reduction",
+    "potential_savings": 150.00,
+    "priority": "medium"
+  },
+  {
+    "id": "rec007",
+    "title": "Create Budget for Transportation",
+    "description": "Your transportation expenses are inconsistent and trending upward. Setting a budget could help control these costs.",
+    "category": "Budgeting",
+    "potential_savings": 65.00,
+    "priority": "low"
+  },
+  {
+    "id": "rec008",
+    "title": "Build Emergency Fund",
+    "description": "Your current savings would cover 1 month of expenses. Aim for 3-6 months for better financial security.",
+    "category": "Financial Security",
+    "potential_savings": 0.00,
+    "priority": "high"
+  }
+] 
